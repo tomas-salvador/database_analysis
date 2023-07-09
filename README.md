@@ -1,5 +1,5 @@
 # Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  21/22)
-Autor/a: Tomás Salvador Salgueiro;   uvus:tomsalsal;
+Autor/a: tomas-salvador;
 
 El proyecto tiene como objetivo analizar los datos de la calidad de aire a nivel global publicados en el dataset de Kaggle que se puede descargar de la siguiente URL (http://kaggle.com/erelin6613/ambient-air-quality-database-who). En el dataset no se ha realizado ninguna modificación a pesar de no tener en ciertas ocasiones algún dato. Este dataset cuenta con 30 columnas.
 
